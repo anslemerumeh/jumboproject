@@ -1,0 +1,26 @@
+
+public class Supplier{
+
+         private String typeOfProduct;
+         private int quantityOfProduct;
+         private String dateOfSupply;
+         private long companyRegistrationNumber;
+	
+	
+
+
+   public void receiveOrder(){
+
+
+}
+
+
+   public void deliverStock(){
+
+
+}
+
+
+
+
+}
