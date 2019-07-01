@@ -59,7 +59,7 @@ r1.employeeRegistration(scanner);
 }
 
 }catch(InputMismatchException ex) {
-}
+}// end of catch block
 
 
 System.out.println();
